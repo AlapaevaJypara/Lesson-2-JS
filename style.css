@@ -1,14 +1,19 @@
-p{
-    font-size: 1.5em;
-    color: red;
-
+p {
+  font-size: 1.5em;
+  color: #fff;
+  text-align: center;
 }
-h1,h3 {
-    color: firebrick;
-    
+h1,
+h3 {
+  text-align: center;
+  color: #fff;
+}
+h4 {
+  text-align: center;
+  font-size: 2em;
+  color: #fff;
 }
 
-body{
-    
-    background-color: yellow;
+body {
+  background-color: blueviolet;
 }
